@@ -1,1 +1,2 @@
-# discount_calculation
+# Discount Module
+**Full Name**: Wittaya Kamatassri
